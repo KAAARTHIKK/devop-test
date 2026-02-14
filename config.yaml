@@ -1,0 +1,10 @@
+app:
+  name: devop-test
+  version: 1.0.0
+
+server:
+  host: localhost
+  port: 8080
+
+environment: development
+
