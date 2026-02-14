@@ -1,0 +1,8 @@
+name: Karthik
+age: 20
+course: Computer Science
+skills:
+  - Java
+  - Python
+  - SQL
+is_student: true
